@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Menu"
+        android:icon="@drawable/ic_menu"
+        android:id="@+id/MenuFragmentIcon"/>
+    <item
+        android:title="Spend"
+        android:icon="@drawable/ic_spend"
+        android:id="@+id/SpendFragmentIcon"/>
+    <item
+        android:title="Save"
+        android:icon="@drawable/ic_save"
+        android:id="@+id/SaveFragmentIcon"/>
+
+    <item
+        android:title="Schedule"
+        android:icon="@drawable/ic_schedule"
+        android:id="@+id/ScheduleFragmentIcon"/>
+
+    <item
+        android:title="Add"
+        android:icon="@drawable/ic_add"
+        android:id="@+id/AddFragmentIcon"/>
+</menu>
